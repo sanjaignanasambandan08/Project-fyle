@@ -1,0 +1,183 @@
+
+ 
+ .h3p4{
+    top: 3505px;
+    padding: 40px;
+    height: 24px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal 600 24px/26px Cormorant SC;
+    letter-spacing: 0px;
+    color: #FF3147;
+    text-transform: uppercase;
+    opacity: 1;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal 600 24px/26px Cormorant SC;
+    letter-spacing: 0px;
+    color: #FF3147;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+ .h1p4{
+    top: 3569px;
+
+/* UI Properties */
+    text-align: center;
+    font: normal normal bold 45px/65px Cormorant SC;
+    letter-spacing: 0px;
+    color: #000000;
+    text-transform: uppercase;
+    opacity: 1;
+
+}
+
+.headDiv{
+    margin-left: 20px;
+    background-color: #FAFAFA;
+}
+
+.mainDiv{
+    background-color: #FAFAFA;
+    top: 3405px;
+    left: 1px;
+    height: 360px;
+    /* UI Properties */
+    background: #FAFAFA 0% 0% no-repeat padding-box;
+    opacity: 1;
+    }
+    
+
+    /* Update the CSS for .subDiv */
+.subDiv {
+    margin-left: 100px;
+    width: 270px;
+    height: 233px;
+    background: #FFFFFF;
+    box-shadow: 3px 6px 20px rgba(0, 0, 0, 0.1); /* Changed shadow color */
+    transition: box-shadow 0.3s ease; /* Added transition */
+}
+
+/* Add CSS for hover state of .subDiv */
+.subDiv:hover {
+    box-shadow: 3px 6px 30px rgba(0, 0, 0, 0.2); /* Adjusted shadow size and color */
+}
+
+    
+
+
+.numP{
+    text-align: center;
+    font: normal normal 300 60px/65px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+.textP{
+    text-align: center;
+    font: normal normal 300 20px/80px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    }
+
+.marginauto{
+    
+    margin: 10px auto 20px;
+    display: block;
+    top: 3708px;
+    opacity: 1;
+    padding-top:20px ;
+    }
+
+    .footerP{
+  
+    text-align: left;
+    font: normal normal normal 20px/34px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    size: 20px;
+    transform: translate(3%, -30%); 
+
+    }
+
+    .hiddenImg{
+     top: 4276px;
+    left: 535px;
+    width: 64px;
+    height: 45px;
+    /* UI Properties */
+    background: transparent url('img/Quotemarks-left.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    }
+
+    h6{
+    top: 4378px;
+    left: 554px;
+    width: 159px;
+    height: 28px;
+    text-align: left;
+    font: normal normal bold 20px/34px Poppins;
+    letter-spacing: 0px;
+    color: #FF3147;
+    opacity: 1;
+    display: inline;
+ 
+    }   
+
+.lightH6{
+    top: 4378px;
+    left: 718px;
+    width: 338px;
+    height: 28px;
+    text-align: left;
+    font: normal normal 300 20px/34px Poppins;
+    letter-spacing: 0px;
+    color: #808080;
+    opacity: 1;
+
+    }
+    
+.lastLine{
+    margin-left: 40px;
+    }
+
+.footerDiv{
+    top: 4506px;
+    left: 0px;
+    height: 310px;
+/* UI Properties */
+   
+margin-left: 20px;
+background-color:#FF3147;
+    opacity:81;
+    }
+
+.footerImg{
+    padding-top: 130px;
+}
+
+footer {
+    display: flex;
+    background-color: #FF3147;
+    
+    align-items: center; /* Vertically center the content */
+    height: 100px; /* Set a specific height for the footer */
+    top: 4506px;
+left: 0px;
+right: 0px;
+width: 2050px;
+height: 310px;
+  
+}
+
+.footerDiv {
+    display: block;
+    margin: auto;
+    text-align: center; /* Optional: Center text within the div */
+}
+

@@ -1,0 +1,71 @@
+.red{
+top: 2067px;
+left: 857px;
+width: 206px;
+height: 24px;
+text-align: center;
+font: normal normal 600 24px/26px Cormorant SC;
+letter-spacing: 0px;
+color: #FF3147;
+opacity: 1;
+
+}
+
+.black{
+    top: 2131px;
+left: 746px;
+width: 428px;
+height: 45px;
+/* UI Properties */
+text-align: center;
+font: normal normal bold 45px/65px Cormorant SC;
+letter-spacing: 0px;
+color: #000000;
+text-transform: uppercase;
+opacity: 1;
+}
+
+
+
+.pap3{
+    top: 2374px;
+left: 375px;
+width: 256px;
+height: 75px;
+/* UI Properties */
+text-align: left;
+
+}
+
+
+.col1{
+    top: 3096px;
+left: 1175px;
+width: 370px;
+height: 189px;
+/* UI Properties */
+background: #F6F6F6 0% 0% no-repeat padding-box;
+opacity: 1;
+cursor: pointer;
+
+}
+#hover :hover{
+    background-color: #FF3147;
+    color: white;
+
+
+}
+
+.setof{
+    background-color: #e2e0e0;
+    margin: auto;
+}
+
+.setof:hover:hover{
+    background-color: #FF3147;
+    color: #F6F6F6;
+    transition-duration: 1s;
+}
+.myjapan{
+    background-color: #e0dddd;
+}

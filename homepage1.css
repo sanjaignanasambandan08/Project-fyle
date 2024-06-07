@@ -1,0 +1,67 @@
+.h1p2{
+    top: 1101px;
+left: 373px;
+width: 442px;
+height: 110px;
+text-align: left;
+font: normal normal bold 45px/65px Cormorant SC;
+letter-spacing: 0px;
+color: #000000;
+text-transform: uppercase;
+opacity: 1;
+}
+.h3p2{
+    padding: auto;
+    margin-top: 40px;
+height: 24px;
+text-align: left;
+font: normal normal 600 24px/26px Cormorant SC;
+letter-spacing: 0px;
+color: #FF3147;
+opacity: 1;
+}
+
+.lorP{
+    top: 1114px;
+left: 960px;
+width: 584px;
+height: 83px;
+/* UI Properties */
+text-align: left;
+font: normal normal normal 16px/30px Poppins;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+
+.bodyp2{
+    top: 937px;
+left: -4px;
+width: 1920px;
+height: 1030px;
+/* UI Properties */
+background: #FAFAFA 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.slider-wrapper .image-list{
+    display: grid;
+    grid-template-columns: repeat(10,1fr);
+    padding: auto;
+}
+
+.slider-wrapper .image-list .image-item{
+    width : 325px;
+    height: 400px;
+    object-fit:cover
+}
+
+.image-item{
+    padding: 10px;
+}
